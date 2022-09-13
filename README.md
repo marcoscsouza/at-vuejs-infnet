@@ -1,24 +1,10 @@
 # marcoscassianoatvue
 
-## Project setup
-```
-npm install
-```
+## Marcos Cassiano de Souza 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Assessment de Frameworks Front-end e conexão com Back-end
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Tema --- Tarefas
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##### Regra de negocio passando a data atual, automaticamente a tarefa é dada como concluída
